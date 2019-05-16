@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="32312" started-at="2019-01-27T17:48:58Z" finished-at="2019-01-27T17:49:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="32312" started-at="2019-01-27T17:48:58Z" finished-at="2019-01-27T17:49:31Z">
+      <class name="TestCase.DriverClass">
+        <test-method status="PASS" signature="readExcelData()[pri:0, instance:TestCase.DriverClass@13deb50e]" name="readExcelData" duration-ms="32283" started-at="2019-01-27T17:48:58Z" finished-at="2019-01-27T17:49:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readExcelData -->
+      </class> <!-- TestCase.DriverClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
